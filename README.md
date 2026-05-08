@@ -9,6 +9,7 @@ For this project to work, you need to install PyAutoGUI and Keyboard (in the ter
 Install (in terminal):
 
 pip install pyautogui
+------------------------
 pip install keyboard
 
 -----------------------------------------------------------------------------------------------------------------------------------------
